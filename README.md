@@ -6,7 +6,7 @@
 
 This project was developed with the following technologies:
 
-- HTLM
+- HTML
 - CSS
 
 ### 🚀 Project
